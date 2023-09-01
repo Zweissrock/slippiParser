@@ -1,0 +1,14 @@
+{
+  "name": "slippiParser",
+  "version": "1.0",
+  "description": "pull data from slippi files",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Zweissrock@gmail.com , joe.powers92@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@slippi/slippi-js": "^5.0.3",
+    "glob": "^7.1.6",
+    "readline-sync": "^1.4.10"
+  }
+}
