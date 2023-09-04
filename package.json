@@ -1,5 +1,5 @@
 {
-  "name": "slippiParser",
+  "name": "slippi-parser",
   "version": "1.0",
   "description": "pull data from slippi files",
   "main": "index.js",
