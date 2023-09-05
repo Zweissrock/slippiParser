@@ -1,0 +1,12 @@
+// Characters ordered by ID
+const characters = ['Captain Falcon', 'Donkey Kong', 'Fox', 'Mr. Game & Watch', 'Kirby', 'Bowser',
+            'Link', 'Luigi', 'Mario', 'Marth', 'Mewtwo', 'Ness', 'Peach', 'Pikachu',
+            'Ice Climbers', 'Jigglypuff', 'Samus', 'Yoshi', 'Zelda', 'Sheik', 'Falco',
+            'Young Link', 'Dr. Mario', 'Roy', 'Pichu', 'Ganondorf', 'Master Hand', 'Male Wireframe',
+            'Female Wireframe', 'Giga Bowser', 'Crazy Hand', 'Sandbag', 'Popo', 'Unknown']
+
+const characters_lowercase = ['captain falcon', 'donkey kong', 'fox', 'mr. game & watch', 'kirby', 'bowser',
+            'link', 'luigi', 'mario', 'marth', 'mewtwo', 'ness', 'peach', 'pikachu',
+            'ice climbers', 'jigglypuff', 'samus', 'yoshi', 'zelda', 'sheik', 'falco',
+            'young link', 'dr. mario', 'roy', 'pichu', 'ganondorf', 'master hand', 'male wireframe',
+            'female wireframe', 'giga bowser', 'crazy hand', 'sandbag', 'popo', 'Unknown']            
