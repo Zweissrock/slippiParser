@@ -1,5 +1,5 @@
 {
-  "name": "slippiParser",
+  "name": "slippi-parser",
   "version": "1.0",
   "description": "pull data from slippi files",
   "main": "index.js",
@@ -8,7 +8,11 @@
   "license": "ISC",
   "dependencies": {
     "@slippi/slippi-js": "^5.0.3",
+    "date-fns": "^2.30.0",
+    "fs": "^0.0.1-security",
     "glob": "^7.1.6",
-    "readline-sync": "^1.4.10"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10",
+    "sanitize-filename": "^1.6.3"
   }
 }
